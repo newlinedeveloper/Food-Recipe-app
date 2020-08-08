@@ -5,7 +5,8 @@ Food Recipe Preparation and Order App developed by using MERN Stack
 ## Clone the App
 
 ```
-
+  https://github.com/newlinedeveloper/Food-Recipe-app.git
+  
 ```
 
 ## To run the Server App
